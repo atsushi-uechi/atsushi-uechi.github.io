@@ -32,7 +32,7 @@ Welcome!
 
 I am a researcher focusing on urban revitalization and tourism-oriented city planning through the analysis of human mobility (people flow). My current research interests include factor analysis of tourism consumption and urban planning and behavioral modeling.
 
-I work as an Assistant Professor at the Department of Engineering, University of the Ryukyus, Civil Engineering and Architecture Course.
+I work as an Assistant Professor at the Faculty of Engineering, University of the Ryukyus, Civil Engineering and Architecture Course.
 
 ## Links
 - [researchmap](https://researchmap.jp/atsushi_uechi)
