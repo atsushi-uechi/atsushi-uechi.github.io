@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://www.uryukyu.ac.jp/'>University of the Ryukyus</a>, Faculty of Engineering, Civil Engineering Course
+subtitle: Assistant Professor, <a href='https://www.u-ryukyu.ac.jp/'>University of the Ryukyus</a>, Faculty of Engineering, Civil Engineering Course
 
 profile:
   align: right
@@ -36,4 +36,6 @@ I work as an Assistant Professor at the Department of Engineering, University of
 
 ## Links
 - [researchmap](https://researchmap.jp/atsushi_uechi)
-- [琉球大学研究者DB](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100002535_ja.html)
+- [琉球大学 研究者DB](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100002535_ja.html)
+- [琉球大学 工学部](https://www.tec.u-ryukyu.ac.jp/)
+- [工学部 社会基盤デザインコース](https://civil.tec.u-ryukyu.ac.jp/)
