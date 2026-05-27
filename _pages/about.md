@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -32,6 +32,8 @@ I am a researcher focusing on urban revitalization and tourism-oriented city pla
 I work as an Assistant Professor at the Faculty of Engineering, University of the Ryukyus, Civil Engineering Course.
 
 contact:uechi_fn9s@cs.u-ryukyu.ac.jp
+
+<br>
 
 <div class="news">
   <h2>Links</h2>
