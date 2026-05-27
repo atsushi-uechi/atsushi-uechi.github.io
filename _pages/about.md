@@ -94,3 +94,21 @@ contact:uechi_fn9s@cs.u-ryukyu.ac.jp
     </table>
   </div>
 </div>
+<div class="news">
+  <h2>Affiliated Societies</h2>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tbody>
+        <tr>
+          <td>Japan Society of Civil Engineers (土木学会)</td>
+        </tr>
+        <tr>
+          <td>apan Society of Traffic Engineering (交通工学研究会)</td>
+        </tr>
+        <tr>
+          <td>Japan Society for Fuzzy Theory and Intelligent Informatics (日本知能情報ファジィ学会)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
