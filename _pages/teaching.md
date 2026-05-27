@@ -1,11 +1,4 @@
----
-layout: page
-title: Lecture
-permalink: /teaching/
-description:
-nav: true
-nav_order: 5
----
+※シラバスは時間割配当表を確認してください．
 
 <div class="news">
   <h2>2026</h2>
@@ -15,8 +8,8 @@ nav_order: 5
         <tr>
           <th scope="row" style="width: 100px;">前学期</th>
           <td>
-            <a href="https://tiglon.jim.u-ryukyu.ac.jp/portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2026&lct_cd=615012001&je_cd=1" target="_blank">社基260 測量学Ⅰ</a><br>
-            <a href="https://tiglon.jim.u-ryukyu.ac.jp/portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2026&lct_cd=615055001&je_cd=1" target="_blank">社基364 建設行政(夏季集中講義)</a>
+            社基260 測量学Ⅰ<br>
+            社基364 建設行政(夏季集中講義)
           </td>
         </tr>
         <tr>
@@ -39,14 +32,14 @@ nav_order: 5
         <tr>
           <th scope="row" style="width: 100px;">前学期</th>
           <td>
-            <a href="https://tiglon.jim.u-ryukyu.ac.jp/portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2025&lct_cd=615012001&je_cd=1" target="_blank">社基260 測量学Ⅰ</a><br>
-            <a href="https://tiglon.jim.u-ryukyu.ac.jp/portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2025&lct_cd=615055001&je_cd=1" target="_blank">社基364 建設行政(夏季集中講義)</a>
+            社基260 測量学Ⅰ<br>
+            社基364 建設行政(夏季集中講義)
           </td>
         </tr>
         <tr>
           <th scope="row">後学期</th>
           <td>
-            <a href="https://tiglon.jim.u-ryukyu.ac.jp/portal/Public/Syllabus/SyllabusSearchStart.aspx?lct_year=2025&lct_cd=610014052&je_cd=1" target="_blank">工共302 エンジニアリングデザイン演習</a>
+            工共302 エンジニアリングデザイン演習
           </td>
         </tr>
       </tbody>
