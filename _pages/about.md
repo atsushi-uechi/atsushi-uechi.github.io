@@ -34,11 +34,27 @@ I am a researcher focusing on urban revitalization and tourism-oriented city pla
 
 I work as an Assistant Professor at the Faculty of Engineering, University of the Ryukyus, Civil Engineering and Architecture Course.
 
-## Links
-- [researchmap](https://researchmap.jp/atsushi_uechi)
-- [琉球大学 研究者DB](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100002535_ja.html)
-- [琉球大学 工学部](https://www.tec.u-ryukyu.ac.jp/)
-- [工学部 社会基盤デザインコース](https://civil.tec.u-ryukyu.ac.jp/)
+<div class="news">
+  <h2>Links</h2>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tbody>
+        <tr>
+          <td><a href="https://researchmap.jp/atsushi_uechi" target="_blank">researchmap</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100002535_ja.html" target="_blank">琉球大学 研究者DB</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://www.tec.u-ryukyu.ac.jp/" target="_blank">琉球大学 工学部</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://civil.tec.u-ryukyu.ac.jp/" target="_blank">工学部 社会基盤デザインコース</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 <div class="news">
   <h2>Education</h2>
   <div class="table-responsive">
