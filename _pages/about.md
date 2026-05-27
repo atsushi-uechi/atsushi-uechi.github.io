@@ -23,7 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 <br><br>
 
 Welcome!
@@ -66,7 +65,7 @@ contact:uechi_fn9s@cs.u-ryukyu.ac.jp
         </tr>
         <tr>
           <th scope="row">2017 – 2021</th>
-          <td>B.Eng., Department of Civil Engineering, Faculty of Engineering, University of the Ryukyus</td>
+          <td>B.Eng., Faculty of Civil Engineering, Faculty of Engineering, University of the Ryukyus</td>
         </tr>
         <tr>
           <th scope="row">2021 – 2023</th>
