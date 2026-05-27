@@ -62,19 +62,19 @@ contact:uechi_fn9s@cs.u-ryukyu.ac.jp
     <table class="table table-sm table-borderless">
       <tbody>
         <tr>
-          <th scope="row" style="width: 120px;">2014 – 2017</th>
+          <th scope="row" style="width: 120px;">2014.04 – 2017.03</th>
           <td>Shuri High School, Okinawa, Japan</td>
         </tr>
         <tr>
-          <th scope="row">2017 – 2021</th>
+          <th scope="row">2017.04 – 2021.03</th>
           <td>B.Eng., Faculty of Civil Engineering, Faculty of Engineering, University of the Ryukyus</td>
         </tr>
         <tr>
-          <th scope="row">2021 – 2023</th>
+          <th scope="row">2021.04 – 2023.03</th>
           <td>M.Eng., Graduate School of Engineering and Science, University of the Ryukyus</td>
         </tr>
         <tr>
-          <th scope="row">2023 – 2025</th>
+          <th scope="row">2023.04 – 2025.03</th>
           <td>Ph.D., Graduate School of Engineering and Science, University of the Ryukyus</td>
         </tr>
       </tbody>
