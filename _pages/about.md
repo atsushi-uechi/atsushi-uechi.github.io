@@ -9,10 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Faculty of Engineering, University of the Ryukyus</p>
-    <p>Civil Engineering Course, Assistant Professor</p>
-    <p>1 Senbaru, Nishihara, Okinawa 903-0213, Japan</p>
-    <p>uechi_fn9s@cs.u-ryukyu.ac.jp</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,7 +28,9 @@ Welcome!
 
 I am a researcher focusing on urban revitalization and tourism-oriented city planning through the analysis of human mobility (people flow). My current research interests include factor analysis of tourism consumption and urban planning and behavioral modeling.
 
-I work as an Assistant Professor at the Faculty of Engineering, University of the Ryukyus, Civil Engineering and Architecture Course.
+I work as an Assistant Professor at the Faculty of Engineering, University of the Ryukyus, Civil Engineering Course.
+
+contact:uechi_fn9s@cs.u-ryukyu.ac.jp
 
 <div class="news">
   <h2>Links</h2>
