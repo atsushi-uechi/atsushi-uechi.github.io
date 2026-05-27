@@ -39,11 +39,24 @@ I work as an Assistant Professor at the Faculty of Engineering, University of th
 - [琉球大学 研究者DB](https://kenkyushadb.lab.u-ryukyu.ac.jp/html/100002535_ja.html)
 - [琉球大学 工学部](https://www.tec.u-ryukyu.ac.jp/)
 - [工学部 社会基盤デザインコース](https://civil.tec.u-ryukyu.ac.jp/)
-
-<div class="section">
-<h2>Education</h2>
-<ul>
-<li>2014.04 – 2017.03: Shuri High School, Okinawa, Japan</li>
-<li>2017.04 – 2021.03: B.Eng., University of the Ryukyus</li>
-</ul>
+<div class="news">
+  <h2>Education</h2>
+  <table>
+    <tr>
+      <td class="year">2014 – 2017</td>
+      <td>Shuri High School, Okinawa, Japan</td>
+    </tr>
+    <tr>
+      <td class="year">2017 – 2021</td>
+      <td>B.Eng., Department of Civil Engineering, Faculty of Engineering, University of the Ryukyus</td>
+    </tr>
+    <tr>
+      <td class="year">2021 – 2023</td>
+      <td>M.Eng., Graduate School of Engineering and Science, University of the Ryukyus</td>
+    </tr>
+    <tr>
+      <td class="year">2023 – 2025</td>
+      <td>Ph.D., Graduate School of Engineering and Science, University of the Ryukyus</td>
+    </tr>
+  </table>
 </div>
