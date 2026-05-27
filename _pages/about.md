@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<br><br>
+
 Welcome!
 
 I am a researcher focusing on urban revitalization and tourism-oriented city planning through the analysis of human mobility (people flow). My current research interests include factor analysis of tourism consumption and urban planning and behavioral modeling.
