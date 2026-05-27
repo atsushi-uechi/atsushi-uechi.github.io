@@ -62,7 +62,7 @@ contact:uechi_fn9s@cs.u-ryukyu.ac.jp
     <table class="table table-sm table-borderless">
       <tbody>
         <tr>
-          <th scope="row" style="width: 120px;">2014.04 – 2017.03</th>
+          <th scope="row" style="width: 180px;">2014.04 – 2017.03</th>
           <td>Shuri High School, Okinawa, Japan</td>
         </tr>
         <tr>
