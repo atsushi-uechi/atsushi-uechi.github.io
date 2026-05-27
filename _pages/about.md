@@ -34,6 +34,7 @@ I work as an Assistant Professor at the Faculty of Engineering, University of th
 contact:uechi_fn9s@cs.u-ryukyu.ac.jp
 
 <br>
+<br>
 
 <div class="news">
   <h2>Links</h2>
