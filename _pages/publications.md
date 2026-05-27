@@ -17,7 +17,7 @@ nav_order: 2
 <h2>Miscellaneous(Non-Peer-Reviewed)</h2>
 {% bibliography --query @misc %}
 
-<h2>COnference Presentations</h2>
+<h2>Conference Presentations</h2>
 {% bibliography --query @inproceedings %}
 
 <h2>Awards</h2>
