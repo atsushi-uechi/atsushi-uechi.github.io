@@ -81,3 +81,16 @@ contact:uechi_fn9s@cs.u-ryukyu.ac.jp
     </table>
   </div>
 </div>
+<div class="news">
+  <h2>Biography</h2>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tbody>
+        <tr>
+          <th scope="row" style="width: 150px;">2025.04 – present</th>
+          <td>Assistant Professor, Civil Engineering Course, Faculty of Engineering, University of the Ryukyus</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
