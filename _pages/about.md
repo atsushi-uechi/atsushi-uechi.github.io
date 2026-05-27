@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Assistant Professor, <a href='https://www.u-ryukyu.ac.jp/'>University of the Ryukyus</a>, Faculty of Engineering, Civil Engineering Course
 
