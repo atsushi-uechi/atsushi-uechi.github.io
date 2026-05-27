@@ -13,14 +13,14 @@ nav_order: 5
     <table class="table table-sm table-borderless">
       <tbody>
         <tr>
-          <th scope="row" style="width: 100px;">Spring</th>
+          <th scope="row" style="width: 100px;">前学期</th>
           <td>
             社基260 Surveying I<br>
             社基364 Construction Administration (Intensive)
           </td>
         </tr>
         <tr>
-          <th scope="row">Fall</th>
+          <th scope="row">後学期</th>
           <td>
             工共302 Engineering Design Practice<br>
             社基901 Urban and Regional Planning
@@ -37,14 +37,14 @@ nav_order: 5
     <table class="table table-sm table-borderless">
       <tbody>
         <tr>
-          <th scope="row" style="width: 100px;">Spring</th>
+          <th scope="row" style="width: 100px;">前学期</th>
           <td>
             社基260 Surveying I<br>
             社基364 Construction Administration (Intensive)
           </td>
         </tr>
         <tr>
-          <th scope="row">Fall</th>
+          <th scope="row">後学期</th>
           <td>
             工共302 Engineering Design Practice
           </td>
