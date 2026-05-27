@@ -41,22 +41,26 @@ I work as an Assistant Professor at the Faculty of Engineering, University of th
 - [工学部 社会基盤デザインコース](https://civil.tec.u-ryukyu.ac.jp/)
 <div class="news">
   <h2>Education</h2>
-  <table>
-    <tr>
-      <td class="year">2014 – 2017</td>
-      <td>Shuri High School, Okinawa, Japan</td>
-    </tr>
-    <tr>
-      <td class="year">2017 – 2021</td>
-      <td>B.Eng., Department of Civil Engineering, Faculty of Engineering, University of the Ryukyus</td>
-    </tr>
-    <tr>
-      <td class="year">2021 – 2023</td>
-      <td>M.Eng., Graduate School of Engineering and Science, University of the Ryukyus</td>
-    </tr>
-    <tr>
-      <td class="year">2023 – 2025</td>
-      <td>Ph.D., Graduate School of Engineering and Science, University of the Ryukyus</td>
-    </tr>
-  </table>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tbody>
+        <tr>
+          <th scope="row" style="width: 120px;">2014 – 2017</th>
+          <td>Shuri High School, Okinawa, Japan</td>
+        </tr>
+        <tr>
+          <th scope="row">2017 – 2021</th>
+          <td>B.Eng., Department of Civil Engineering, Faculty of Engineering, University of the Ryukyus</td>
+        </tr>
+        <tr>
+          <th scope="row">2021 – 2023</th>
+          <td>M.Eng., Graduate School of Engineering and Science, University of the Ryukyus</td>
+        </tr>
+        <tr>
+          <th scope="row">2023 – 2025</th>
+          <td>Ph.D., Graduate School of Engineering and Science, University of the Ryukyus</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
