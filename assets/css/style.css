@@ -371,6 +371,30 @@ h3 {
   margin-top: 12px;
 }
 
+.article-content {
+  max-width: 920px;
+  color: var(--muted);
+}
+
+.article-content p {
+  margin: 0 0 14px;
+}
+
+.article-content .publication-title {
+  margin-top: 4px;
+  color: var(--text);
+}
+
+.paper-detail {
+  margin-top: 30px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.paper-detail:first-of-type {
+  margin-top: 28px;
+}
+
 .placeholder-media {
   display: grid;
   place-items: center;
